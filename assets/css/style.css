@@ -27,3 +27,15 @@
 .clearfix {
   clear: both;
 }
+
+.large-item {
+  width: 200px;
+  height: 220px;
+  background-color: brown;
+  margin: 20px;
+}
+
+.margin-auto {
+  margin: 0 auto;
+  width: max-content;
+}
